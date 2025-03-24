@@ -24,8 +24,7 @@ To run this project, ensure you have Python installed along with the following l
 - NumPy
 - Matplotlib
 - Keras
-- TensorFlow
 
 You can install the required libraries using pip:
 ```bash
-pip install numpy matplotlib keras tensorflow
+pip install numpy matplotlib keras 
